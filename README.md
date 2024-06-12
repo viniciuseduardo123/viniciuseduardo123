@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bem-Vindos! 👋
+Escola@0911
+- Sou estudante da 3º Série do Ensino Médio.
+- Tenho 17 anos de idade.
+- Estudo e faço curso no Alura.
+- Faço curso de Robótica.
+- Este espaço é para a postagens dos meus projetos.
 
-<!--
-**viniciuseduardo123/viniciuseduardo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Entre em contato comigo📧
 
-Here are some ideas to get you started:
+0000109916297XSP@aluno.educacao.sp.gov.br 
+![](https://media1.tenor.com/m/i4w5VN82hf4AAAAC/queen-of-tears-queen-of-tears-behind-the-scenes.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
